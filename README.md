@@ -77,18 +77,6 @@ To get full credit on this assignment, you need to push the following files with
 
 After you receive your grade, make sure to destroy your cloud computing infrastructure created in both parts 1 and 2. 
 
-# Rubric 
-
-```
-+10 part 1 (terraform)
-+20 src/init_db 
-+5 keys.txt
-+10 Dockerfile 
-+35 src/prj_02_lambda 
--5 deduction for each of the three required query parameters 
--10 deduction if key authentication is not working
-+20 part 2 (terraform)
-```
 
 
 
